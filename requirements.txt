@@ -1,0 +1,6 @@
+Flask==2.2.5               # Web framework for creating the web application
+tensorflow==2.9.1          # Deep learning library for building and training the neural network model
+pandas==1.4.2              # Data manipulation and analysis library for loading and preprocessing the dataset
+scikit-learn==1.1.1        # Machine learning library for splitting the dataset and other utilities
+numpy==1.22.4              # Numerical computations library
+jinja2==3.1.2              # Templating engine for rendering HTML templates in Flask
