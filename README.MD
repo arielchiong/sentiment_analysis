@@ -1,6 +1,7 @@
 ### Python3
 
 review files are stored in /data directory.
+
 make sure to create directory /models this is where the train models will be stored.
 
 ### Script
